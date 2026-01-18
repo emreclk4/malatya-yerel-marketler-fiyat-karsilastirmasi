@@ -1,0 +1,429 @@
+{
+  "lastUpdated": "19.01.2026",
+  "markets": [
+    {
+      "id": "m1",
+      "name": "Esenlik",
+      "type": "local",
+      "color": "bg-green-600"
+    },
+    {
+      "id": "m2",
+      "name": "Migros",
+      "type": "national",
+      "color": "bg-orange-500"
+    },
+    {
+      "id": "m3",
+      "name": "A101",
+      "type": "discount",
+      "color": "bg-cyan-500"
+    },
+    {
+      "id": "m4",
+      "name": "BİM",
+      "type": "discount",
+      "color": "bg-red-600"
+    },
+    {
+      "id": "m5",
+      "name": "Şok",
+      "type": "discount",
+      "color": "bg-yellow-500"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Ayçiçek Yağı (5L)",
+      "category": "Gıda",
+      "icon": "🌻",
+      "prices": [
+        {
+          "marketId": "m1",
+          "price": 415.00
+        },
+        {
+          "marketId": "m2",
+          "price": 429.90
+        },
+        {
+          "marketId": "m3",
+          "price": 409.00
+        },
+        {
+          "marketId": "m4",
+          "price": 409.00
+        },
+        {
+          "marketId": "m5",
+          "price": 409.00
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Çaykur Tiryaki Çayı (1kg)",
+      "category": "İçecek",
+      "icon": "☕",
+      "prices": [
+        {
+          "marketId": "m1",
+          "price": 285.00
+        },
+        {
+          "marketId": "m2",
+          "price": 295.00
+        },
+        {
+          "marketId": "m3",
+          "price": 239.00
+        },
+        {
+          "marketId": "m4",
+          "price": 232.00
+        },
+        {
+          "marketId": "m5",
+          "price": 269.00
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Toz Şeker (5kg)",
+      "category": "Gıda",
+      "icon": "🍬",
+      "prices": [
+        {
+          "marketId": "m1",
+          "price": 240.00
+        },
+        {
+          "marketId": "m2",
+          "price": 255.90
+        },
+        {
+          "marketId": "m3",
+          "price": 235.00
+        },
+        {
+          "marketId": "m4",
+          "price": 232.50
+        },
+        {
+          "marketId": "m5",
+          "price": 239.00
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Yarım Yağlı Süt (1L)",
+      "category": "Süt & Kahvaltı",
+      "icon": "🥛",
+      "prices": [
+        {
+          "marketId": "m1",
+          "price": 28.50
+        },
+        {
+          "marketId": "m2",
+          "price": 34.00
+        },
+        {
+          "marketId": "m3",
+          "price": 24.00
+        },
+        {
+          "marketId": "m4",
+          "price": 22.50
+        },
+        {
+          "marketId": "m5",
+          "price": 24.00
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Yumurta (30'lu - L Boy)",
+      "category": "Süt & Kahvaltı",
+      "icon": "🥚",
+      "prices": [
+        {
+          "marketId": "m1",
+          "price": 145.00
+        },
+        {
+          "marketId": "m2",
+          "price": 165.00
+        },
+        {
+          "marketId": "m3",
+          "price": 125.00
+        },
+        {
+          "marketId": "m4",
+          "price": 115.00
+        },
+        {
+          "marketId": "m5",
+          "price": 129.00
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Yoğurt (3kg)",
+      "category": "Süt & Kahvaltı",
+      "icon": "🥣",
+      "prices": [
+        {
+          "marketId": "m1",
+          "price": 135.00
+        },
+        {
+          "marketId": "m2",
+          "price": 149.90
+        },
+        {
+          "marketId": "m3",
+          "price": 125.00
+        },
+        {
+          "marketId": "m4",
+          "price": 109.00
+        },
+        {
+          "marketId": "m5",
+          "price": 119.50
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Taze Kaşar Peyniri (1kg)",
+      "category": "Süt & Kahvaltı",
+      "icon": "🧀",
+      "prices": [
+        {
+          "marketId": "m1",
+          "price": 340.00
+        },
+        {
+          "marketId": "m2",
+          "price": 389.90
+        },
+        {
+          "marketId": "m3",
+          "price": 325.00
+        },
+        {
+          "marketId": "m4",
+          "price": 289.00
+        },
+        {
+          "marketId": "m5",
+          "price": 315.00
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Beyaz Peynir (Tam Yağlı 1kg)",
+      "category": "Süt & Kahvaltı",
+      "icon": "🧀",
+      "prices": [
+        {
+          "marketId": "m1",
+          "price": 210.00
+        },
+        {
+          "marketId": "m2",
+          "price": 265.00
+        },
+        {
+          "marketId": "m3",
+          "price": 225.00
+        },
+        {
+          "marketId": "m4",
+          "price": 179.00
+        },
+        {
+          "marketId": "m5",
+          "price": 195.00
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Osmancık Pirinç (2.5kg)",
+      "category": "Gıda",
+      "icon": "🍚",
+      "prices": [
+        {
+          "marketId": "m1",
+          "price": 165.00
+        },
+        {
+          "marketId": "m2",
+          "price": 189.90
+        },
+        {
+          "marketId": "m3",
+          "price": 145.00
+        },
+        {
+          "marketId": "m4",
+          "price": 139.50
+        },
+        {
+          "marketId": "m5",
+          "price": 142.00
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Domates Salçası (830g)",
+      "category": "Gıda",
+      "icon": "🍅",
+      "prices": [
+        {
+          "marketId": "m1",
+          "price": 65.00
+        },
+        {
+          "marketId": "m2",
+          "price": 89.90
+        },
+        {
+          "marketId": "m3",
+          "price": 59.50
+        },
+        {
+          "marketId": "m4",
+          "price": 54.50
+        },
+        {
+          "marketId": "m5",
+          "price": 58.00
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Çamaşır Deterjanı (10kg)",
+      "category": "Temizlik",
+      "icon": "🧼",
+      "prices": [
+        {
+          "marketId": "m1",
+          "price": 420.00
+        },
+        {
+          "marketId": "m2",
+          "price": 485.00
+        },
+        {
+          "marketId": "m3",
+          "price": 339.00
+        },
+        {
+          "marketId": "m4",
+          "price": 329.00
+        },
+        {
+          "marketId": "m5",
+          "price": 345.00
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Bulaşık Deterjanı (Sıvı 750ml)",
+      "category": "Temizlik",
+      "icon": "🧽",
+      "prices": [
+        {
+          "marketId": "m1",
+          "price": 45.00
+        },
+        {
+          "marketId": "m2",
+          "price": 59.90
+        },
+        {
+          "marketId": "m3",
+          "price": 38.50
+        },
+        {
+          "marketId": "m4",
+          "price": 36.00
+        },
+        {
+          "marketId": "m5",
+          "price": 39.00
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Tavuk Bonfile (1kg)",
+      "category": "Et & Tavuk",
+      "icon": "🍗",
+      "prices": [
+        {
+          "marketId": "m1",
+          "price": 260.00
+        },
+        {
+          "marketId": "m2",
+          "price": 289.00
+        },
+        {
+          "marketId": "m3",
+          "price": 245.00
+        },
+        {
+          "marketId": "m4",
+          "price": 239.00
+        },
+        {
+          "marketId": "m5",
+          "price": 249.00
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Dana Kıyma (1kg)",
+      "category": "Et & Tavuk",
+      "icon": "🥩",
+      "prices": [
+        {
+          "marketId": "m1",
+          "price": 580.00
+        },
+        {
+          "marketId": "m2",
+          "price": 620.00
+        },
+        {
+          "marketId": "m3",
+          "price": 550.00
+        },
+        {
+          "marketId": "m4",
+          "price": 540.00
+        },
+        {
+          "marketId": "m5",
+          "price": 560.00
+        }
+      ]
+    }
+  ]
+}
